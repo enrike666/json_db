@@ -1,0 +1,11 @@
+C:\Enrike\C#\json_db\JsonDB\JsonDB\bin\Debug\netcoreapp2.2\JsonDB.deps.json
+C:\Enrike\C#\json_db\JsonDB\JsonDB\bin\Debug\netcoreapp2.2\JsonDB.runtimeconfig.json
+C:\Enrike\C#\json_db\JsonDB\JsonDB\bin\Debug\netcoreapp2.2\JsonDB.runtimeconfig.dev.json
+C:\Enrike\C#\json_db\JsonDB\JsonDB\bin\Debug\netcoreapp2.2\JsonDB.dll
+C:\Enrike\C#\json_db\JsonDB\JsonDB\obj\Debug\netcoreapp2.2\JsonDB.csprojAssemblyReference.cache
+C:\Enrike\C#\json_db\JsonDB\JsonDB\obj\Debug\netcoreapp2.2\JsonDB.csproj.CoreCompileInputs.cache
+C:\Enrike\C#\json_db\JsonDB\JsonDB\obj\Debug\netcoreapp2.2\JsonDB.AssemblyInfoInputs.cache
+C:\Enrike\C#\json_db\JsonDB\JsonDB\obj\Debug\netcoreapp2.2\JsonDB.AssemblyInfo.cs
+C:\Enrike\C#\json_db\JsonDB\JsonDB\bin\Debug\netcoreapp2.2\JsonDB.pdb
+C:\Enrike\C#\json_db\JsonDB\JsonDB\obj\Debug\netcoreapp2.2\JsonDB.dll
+C:\Enrike\C#\json_db\JsonDB\JsonDB\obj\Debug\netcoreapp2.2\JsonDB.pdb

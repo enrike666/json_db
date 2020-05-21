@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "JsonDB": {
+      "commandName": "Project",
+      "commandLineArgs": "-delete Id:0"
+    }
+  }
+}
